@@ -5,6 +5,9 @@ En este juego hay varios tiros de penal y la idea es de que el arquero aprenda a
 #Desarrolladores
 
 Daniel Gomez Jaramillo
+
 Brian Mora Aguirre 
+
 Mauricio Pesantez Guzñay
+
 David Valladarez Muñoz
